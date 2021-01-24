@@ -1,0 +1,58 @@
+#Grey-background {
+  background-color: #eeeeee;
+padding: 5px;
+}
+
+body {
+  background-color: white;
+  margin: 0px 5% 0px 5%;
+}
+
+hr {
+  width: 90%;
+  background-color: brown;
+  height: 1px;
+}
+
+
+h1, h2, h3, h4, h5,p,ul,li {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+#brownHeading {
+  text-align: center;
+  text-decoration: underline;
+  color: brown;
+}
+
+#Sticky-Button{
+  position: sticky;
+}
+
+.IT-Tech-btn {
+  position: sticky;
+
+  border: none;
+  outline: 0;
+  display: inline-block;
+  margin-top: 10%;
+  margin-left: 95%;
+  margin-right: 0px;
+  margin-bottom: 5px;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 10%;
+  font-size: 18px;
+}
+
+
+
+
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
